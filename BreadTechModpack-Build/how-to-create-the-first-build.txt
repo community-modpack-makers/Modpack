@@ -1,3 +1,0 @@
-Delete this file.
-Install Forge to this folder.
-Set up a minecraft profile using this folder is the dir.
