@@ -1,0 +1,72 @@
+[18:50:04] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[18:50:04] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[18:50:04] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLTweaker
+[18:50:04] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2768 for Minecraft 1.12.2 loading
+[18:50:04] [main/INFO] [FML]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_74, running on Mac OS X:x86_64:10.14.3, installed at /Users/jake/Library/Application Support/minecraft/runtime/jre-x64/jre.bundle/Contents/Home
+[18:50:04] [main/INFO] [FML]: Searching /Users/jake/Documents/GitHub/Modpack/BreadTechModpack-Build/mods for mods
+[18:50:04] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[18:50:04] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[18:50:04] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[18:50:04] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[18:50:04] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[18:50:07] [main/INFO] [FML]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
+[18:50:08] [main/INFO] [FML]: Found valid fingerprint for Minecraft. Certificate fingerprint cd99959656f753dc28d863b46769f7f8fbaefcfc
+[18:50:08] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[18:50:08] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[18:50:08] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[18:50:08] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[18:50:08] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.client.main.Main}
+[18:50:10] [main/INFO] [net.minecraft.client.Minecraft]: Setting user: Trainfan8
+[18:50:17] [main/INFO] [net.minecraft.client.Minecraft]: LWJGL Version: 2.9.2
+[18:50:17] [main/INFO] [FML]: Could not load splash.properties, will create a default one
+[18:50:17] [main/INFO] [FML]: -- System Details --
+Details:
+	Minecraft Version: 1.12.2
+	Operating System: Mac OS X (x86_64) version 10.14.3
+	Java Version: 1.8.0_74, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+	Memory: 170566552 bytes (162 MB) / 335544320 bytes (320 MB) up to 2147483648 bytes (2048 MB)
+	JVM Flags: 7 total; -Xmx2G -XX:+UnlockExperimentalVMOptions -XX:+UseG1GC -XX:G1NewSizePercent=20 -XX:G1ReservePercent=20 -XX:MaxGCPauseMillis=50 -XX:G1HeapRegionSize=32M
+	IntCache: cache: 0, tcache: 0, allocated: 0, tallocated: 0
+	FML: 
+	Loaded coremods (and transformers): 
+	GL info: ' Vendor: 'Intel Inc.' Version: '2.1 INTEL-12.4.7' Renderer: 'Intel(R) Iris(TM) Graphics 6100'
+[18:50:17] [main/INFO] [FML]: MinecraftForge v14.23.5.2768 Initialized
+[18:50:17] [main/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
+[18:50:17] [main/INFO] [FML]: Replaced 1036 ore ingredients
+[18:50:18] [main/INFO] [FML]: Searching /Users/jake/Documents/GitHub/Modpack/BreadTechModpack-Build/mods for mods
+[18:50:20] [main/INFO] [FML]: Forge Mod Loader has identified 4 mods to load
+[18:50:20] [Thread-3/INFO] [FML]: Using alternative sync timing : 200 frames of Display.update took 1034602029 nanos
+[18:50:20] [main/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge] at CLIENT
+[18:50:20] [main/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge] at SERVER
+[18:50:21] [main/INFO] [net.minecraft.client.resources.SimpleReloadableResourceManager]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge
+[18:50:21] [main/INFO] [FML]: Processing ObjectHolder annotations
+[18:50:22] [main/INFO] [FML]: Found 1169 ObjectHolder annotations
+[18:50:22] [main/INFO] [FML]: Identifying ItemStackHolder annotations
+[18:50:22] [main/INFO] [FML]: Found 0 ItemStackHolder annotations
+[18:50:22] [main/INFO] [FML]: Configured a dormant chunk cache size of 0
+[18:50:22] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+[18:50:22] [main/INFO] [FML]: Applying holder lookups
+[18:50:22] [main/INFO] [FML]: Holder lookups applied
+[18:50:22] [main/INFO] [FML]: Applying holder lookups
+[18:50:22] [main/INFO] [FML]: Holder lookups applied
+[18:50:22] [main/INFO] [FML]: Applying holder lookups
+[18:50:22] [main/INFO] [FML]: Holder lookups applied
+[18:50:22] [main/INFO] [FML]: Applying holder lookups
+[18:50:22] [main/INFO] [FML]: Holder lookups applied
+[18:50:22] [main/INFO] [FML]: Injecting itemstacks
+[18:50:22] [main/INFO] [FML]: Itemstack injection complete
+[18:50:22] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Found status: UP_TO_DATE Target: null
+[18:50:22] [Sound Library Loader/INFO] [net.minecraft.client.audio.SoundManager]: Starting up SoundSystem...
+[18:50:23] [Thread-4/INFO] [net.minecraft.client.audio.SoundManager]: Initializing LWJGL OpenAL
+[18:50:23] [Thread-4/INFO] [net.minecraft.client.audio.SoundManager]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[18:50:23] [Thread-4/INFO] [net.minecraft.client.audio.SoundManager]: OpenAL initialized.
+[18:50:23] [Sound Library Loader/INFO] [net.minecraft.client.audio.SoundManager]: Sound engine started
+[18:50:27] [main/INFO] [FML]: Max texture size: 16384
+[18:50:30] [main/INFO] [net.minecraft.client.renderer.texture.TextureMap]: Created: 512x512 textures-atlas
+[18:50:32] [main/INFO] [FML]: Applying holder lookups
+[18:50:32] [main/INFO] [FML]: Holder lookups applied
+[18:50:32] [main/INFO] [FML]: Injecting itemstacks
+[18:50:32] [main/INFO] [FML]: Itemstack injection complete
+[18:50:33] [main/INFO] [FML]: Forge Mod Loader has successfully loaded 4 mods
+[18:52:26] [main/WARN] [net.minecraft.client.gui.GuiMultiplayer]: Unable to start LAN server detection: Can't assign requested address
