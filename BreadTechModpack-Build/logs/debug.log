@@ -562,3 +562,6 @@ Details:
 [18:50:33] [main/DEBUG] [FML]: Bar Finished: Loading took 15.130s
 [18:50:34] [main/DEBUG] [FML]: Bar Finished: Loading Resource - CloudRenderer took 0.014s
 [18:52:26] [main/WARN] [net.minecraft.client.gui.GuiMultiplayer]: Unable to start LAN server detection: Can't assign requested address
+[18:53:49] [main/INFO] [net.minecraft.client.Minecraft]: Stopping!
+[18:53:49] [main/INFO] [net.minecraft.client.audio.SoundManager]: SoundSystem shutting down...
+[18:53:49] [main/WARN] [net.minecraft.client.audio.SoundManager]: Author: Paul Lamb, www.paulscode.com
